@@ -2,7 +2,7 @@
 
 # Google Coursera Certificate 1: (Foundations: Data, Data Everywhere)
   subjects covered:
-    ~ Defined Data sceince, Data analytics, and Data analysis
+  >  ~ Defined Data sceince, Data analytics, and Data analysis
     ~ Six steps used by Data analysts to turn data into information 
         - Ask, Prepare, Process, Analyze, Share, Act 
     ~ Introduction to the Data Ecosystem
