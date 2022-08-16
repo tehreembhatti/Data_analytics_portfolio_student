@@ -16,7 +16,7 @@
          3. VLOOKUP function 
          4. SORT 
          5. FILTER
-         6. PIVOT_TABLE 
+         6. PIVOT_TABLE*
    * **Intro to SQL (STRUCTURED QUERY LANGUAGE)**
         *LEARNED
           1. AVG funtion
@@ -28,7 +28,7 @@
           7. DIFFERENCE
           8. CONCAT
           9. MAX/MIN
-          10. GETDATE/ DATEDIFF`
-          ` How to format the query to get an answer without getting an error `
+          10. GETDATE/ DATEDIFF
+          11. How to format the query to get an answer without getting an error*
 # Google Coursera Certificate 2: (Ask Questions to Make Data-Driven Decisions)
     
