@@ -30,5 +30,5 @@
           9. MAX/MIN
           10. GETDATE/ DATEDIFF
           11. How to format the query to get an answer without getting an error*
-# Google Coursera Certificate 2: (Ask Questions to Make Data-Driven Decisions)
+## Google Coursera Certificate 2: (Ask Questions to Make Data-Driven Decisions)
     
