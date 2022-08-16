@@ -9,7 +9,7 @@
     *Various elements that produce, manage, organize, analyze and share data*
   * Data lifecycle
     *To plan, capture, manage, analyze, archive and destroy*
-  #######* **Introduction to Spreadsheets**
+###### **Introduction to Spreadsheets**
         *LEARNED
          1. IF funtions 
          2. SUMIFS function 
@@ -17,7 +17,7 @@
          4. SORT 
          5. FILTER
          6. PIVOT_TABLE*
-   * **Intro to SQL (STRUCTURED QUERY LANGUAGE)**
+###### **Intro to SQL (STRUCTURED QUERY LANGUAGE)**
         *LEARNED
           1. AVG funtion
           2. REPLACE
