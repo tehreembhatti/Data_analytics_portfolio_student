@@ -17,6 +17,7 @@
          4. SORT 
          5. FILTER
          6. PIVOT_TABLE*
+
 ###### **Intro to SQL (STRUCTURED QUERY LANGUAGE)**
         *LEARNED
           1. AVG funtion
