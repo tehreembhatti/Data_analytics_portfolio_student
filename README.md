@@ -1,6 +1,6 @@
 # Tehreem's Portfolio 
 
-## Google Coursera Certificate 1: (Foundations: Data, Data Everywhere) (https://github.com/tehreembhatti/Data_analytics_portfolio_student/blob/6d119288378f30ce64f1099b011d42c995b84f96/foundations;%20data,%20data%20everywhere.pdf)
+## Google Coursera Certificate 1: (Foundations: Data, Data Everywhere)
 ####  Subjects covered:
   * Defined Data sceince, Data analytics, and Data analysis
   * Six steps used by Data analysts to turn data into information 
