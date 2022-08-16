@@ -1,7 +1,7 @@
 # Tehreem's Portfolio 
 
 ## Google Coursera Certificate 1: (Foundations: Data, Data Everywhere)
-####  Subjects covered:
+######  Subjects covered:
   * Defined Data sceince, Data analytics, and Data analysis
   * Six steps used by Data analysts to turn data into information 
     *Ask, Prepare, Process, Analyze, Share, Act*
